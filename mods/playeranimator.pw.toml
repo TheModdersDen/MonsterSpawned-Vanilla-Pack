@@ -1,0 +1,14 @@
+name = "playerAnimator"
+filename = "player-animation-lib-forge-1.0.2+1.19.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/gedNE4y2/versions/Gy1IkfP0/player-animation-lib-forge-1.0.2%2B1.19.4.jar"
+hash-format = "sha512"
+hash = "a1a26b1cd026bf4bfb5f9630e22e813d2f2bc7e3dd4a633ba336c83ecff6b3cb3781329615a4a20bc25aa5bc72e10f6edae4fc43d8e439f6cc47e199654c3c69"
+
+[update]
+[update.modrinth]
+mod-id = "gedNE4y2"
+version = "Gy1IkfP0"

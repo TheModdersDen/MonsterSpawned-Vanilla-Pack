@@ -1,0 +1,14 @@
+name = "Customizable Player Models"
+filename = "CustomPlayerModels-1.19.4-0.6.7a.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/h1E7sQNL/versions/Xkx6Ogpo/CustomPlayerModels-1.19.4-0.6.7a.jar"
+hash-format = "sha512"
+hash = "d5392902715f089dbe0a534cda248a59107297998332d63b6208f34a557d2a763b63bac6a0bffa5a2fd082302015f5232226faaf5e64b1a9bfc6651fcfbe88f2"
+
+[update]
+[update.modrinth]
+mod-id = "h1E7sQNL"
+version = "Xkx6Ogpo"

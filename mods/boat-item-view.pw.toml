@@ -1,0 +1,14 @@
+name = "Boat Item View"
+filename = "Boat-Item-View-Forge-1.19.x-0.0.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/BdKIyOLe/versions/1.19.x-0.0.4/Boat-Item-View-Forge-1.19.x-0.0.4.jar"
+hash-format = "sha512"
+hash = "5fcc6562e2aef04f7048c0175df91c6cab5a71c9989a03707072568a67eeaa512edd484b61a5a65a8200f15adda947cdf3aefc6a40cdaa2e9d9eb3d32865dce0"
+
+[update]
+[update.modrinth]
+mod-id = "BdKIyOLe"
+version = "sfI1Ijd2"

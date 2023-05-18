@@ -1,0 +1,14 @@
+name = "The Aether"
+filename = "aether-1.19.4-1.0.0-beta.2-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/YhmgMVyu/versions/WzN9EYXR/aether-1.19.4-1.0.0-beta.2-forge.jar"
+hash-format = "sha512"
+hash = "80ae9685d9c0794c214a0ffe31f646cfd91db9c3a521f428dd606dd879b892adc24db7333e67fa966669c570907fdb10ec0e58dcfaf70a7e026d92baf4da6f09"
+
+[update]
+[update.modrinth]
+mod-id = "YhmgMVyu"
+version = "WzN9EYXR"

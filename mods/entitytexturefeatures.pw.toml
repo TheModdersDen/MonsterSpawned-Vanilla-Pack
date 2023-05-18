@@ -1,0 +1,14 @@
+name = "Entity Texture Features"
+filename = "entity_texture_features_forge_1.19.4-4.4.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/ukn1ghoY/entity_texture_features_forge_1.19.4-4.4.4.jar"
+hash-format = "sha512"
+hash = "5b7050fadaccd900da3f178c48a047e8937035c595c82b951fb3c8266536a49eb32c2fe8d59f2830cd6f6b2585540868f2e56b8b7813eb7dbbd206df5d888163"
+
+[update]
+[update.modrinth]
+mod-id = "BVzZfTc1"
+version = "ukn1ghoY"

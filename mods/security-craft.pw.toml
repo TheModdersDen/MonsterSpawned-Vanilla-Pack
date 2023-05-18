@@ -1,0 +1,14 @@
+name = "SecurityCraft"
+filename = "[1.19.4] SecurityCraft v1.9.6.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/v8jzRtAt/versions/iElgCXTP/%5B1.19.4%5D SecurityCraft v1.9.6.2.jar"
+hash-format = "sha512"
+hash = "810184c093b181ddd7b0fabfd3dd4c578f83bd626f07140846b5f1990106478b1c4c05afbae7a9a4f2fc79dbb90f850dda45b08616790c847472e77f0ef81195"
+
+[update]
+[update.modrinth]
+mod-id = "v8jzRtAt"
+version = "iElgCXTP"

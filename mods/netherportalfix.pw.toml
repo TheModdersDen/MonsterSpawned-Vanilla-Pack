@@ -1,0 +1,14 @@
+name = "NetherPortalFix"
+filename = "netherportalfix-forge-1.19.4-12.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/nPZr02ET/versions/FNyz19JT/netherportalfix-forge-1.19.4-12.0.1.jar"
+hash-format = "sha512"
+hash = "82d3048688b728deb6e025379efd9dbf95bc11087810313ef12cef691a5af1a3d9da99a26266f672ed52c4d9b4583279eb9ade986b474231c1cfaeb1cd5e833d"
+
+[update]
+[update.modrinth]
+mod-id = "nPZr02ET"
+version = "FNyz19JT"

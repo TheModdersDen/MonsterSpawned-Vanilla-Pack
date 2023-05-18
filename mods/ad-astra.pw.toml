@@ -1,0 +1,14 @@
+name = "Ad Astra"
+filename = "ad_astra-forge-1.19.4-1.14.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/3ufwT9JF/versions/apaMnBDD/ad_astra-forge-1.19.4-1.14.1.jar"
+hash-format = "sha512"
+hash = "85e3b6b5a131051ef67916c360864859ab5c62f1adadcff6abaa70f3af5cd4c78436920521d7d468d3d9bf331b78acd5d57bee931b74df0f2d628e3aa4de5d3d"
+
+[update]
+[update.modrinth]
+mod-id = "3ufwT9JF"
+version = "apaMnBDD"

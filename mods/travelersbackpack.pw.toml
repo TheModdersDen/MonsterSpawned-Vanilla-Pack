@@ -1,0 +1,14 @@
+name = "Traveler's Backpack"
+filename = "TravelersBackpack-1.19.4-8.4.4.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/rlloIFEV/versions/hRLg2OHP/TravelersBackpack-1.19.4-8.4.4.jar"
+hash-format = "sha512"
+hash = "b90fd49c58029d6d221b77ff55c989e8c7fd6f25a552842a4c3d8a4f58a3a7b70bbd8cd43ce787df1aec5f647006b6482f87bcfe269d0d511bbb94344dc42017"
+
+[update]
+[update.modrinth]
+mod-id = "rlloIFEV"
+version = "hRLg2OHP"

@@ -1,0 +1,14 @@
+name = "Kotlin for Forge"
+filename = "kotlinforforge-4.2.0-all.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ordsPcFz/versions/4wODBICr/kotlinforforge-4.2.0-all.jar"
+hash-format = "sha512"
+hash = "74f7d04148aaae234ecc097bf1bf92f08e46e94f477c1894a189d8b93c17c5c7485c2ad3945b1a41c6b0af137ae6216361b5e90ac4525b7310dd203120000469"
+
+[update]
+[update.modrinth]
+mod-id = "ordsPcFz"
+version = "4wODBICr"

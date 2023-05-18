@@ -1,0 +1,88 @@
+name: Bug report
+description: File a bug report
+labels: ["bug", "needs review"]
+assignees:
+  - TheModdersDen
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before opening a bug report, please search for any existing, similar, matches before filing a new one. If you find an existing one, please add a 👍 reaction to it. 
+        
+        ---
+        
+        Thank you for taking the time to file a bug report. To address this bug as fast as possible, we need some information.
+  - type: input
+    id: os
+    attributes:
+      label: Operating system
+      description: "Which operating system do you use? Please provide the version as well."
+      placeholder: "macOS Big Sur 11.5.2"
+    validations:
+      required: true  
+  - type: input
+    id: java_version
+    attributes:
+      label: Java Version
+      description: "Please provide the full Java version installed on your computer. You can find this by running `java -version` in your terminal"
+      placeholder: "openjdk version \"11.0.12\" 2021-07-20"
+    validations:
+      required: true
+  - type: input
+    id: mc_version
+    attributes:
+      label: Minecraft Version
+      description: "Please provide the full Minecraft version that you are running currently, in addition to the type."
+      placeholder: "1.17.1 Forge"
+    validations:
+      required: true
+  - type: input
+    id: modpack_version
+    attributes:
+      label: Modpack Version
+      description: "Please provide the full modpack version that you are running currently. Please do not use the word `latest` here, as this will change over time."
+      placeholder: "2.3.0"
+    validations:
+      required: true
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Bug description
+      description: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Which steps do we need to take to reproduce this error?
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: If applicable, provide relevant log output. No need for backticks here.
+      render: Shell
+  - type: input
+    id: mc_modified
+    attributes:
+      label: Modpack Modifications
+      description: "Please provide a list of modifications that you have made to the modpack. This includes adding or removing mods, changing configs, etc. If you have not made any modifications, please write `None` or `N/A`."
+      placeholder: "Removed mod X, added mod Y, changed config Z. Removed Herobrine."
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/TheModdersDen/ModpackTemplate/blob/main/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
