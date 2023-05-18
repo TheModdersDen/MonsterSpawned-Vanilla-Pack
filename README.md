@@ -20,6 +20,7 @@ The modpack is built using the [PrismMC Launcher](https://prismlauncher.org/) to
 ## Modlist
 
 The modpack is built using the following mods:
+
 - [Ad Astra](https://modrinth.com/mod/ad-astra)
 - [Additional Structures](https://modrinth.com/mod/additional-structures)
 - [Advent of Ascension](https://modrinth.com/mod/adventofascension)
@@ -80,4 +81,3 @@ This project is licensed under the [MIT License](LICENSE.md). I, TheModdersDen, 
 ## Code of Conduct
 
 This project has a [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
-
